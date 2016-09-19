@@ -1,3 +1,7 @@
-* {
+.text-align {
   text-align: center;
+}
+
+.photos-line{
+  padding: 0;
 }
