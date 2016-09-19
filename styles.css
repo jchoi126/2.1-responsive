@@ -2,6 +2,19 @@
   text-align: center;
 }
 
-.photos-line{
-  padding: 0;
+.email{
+  border-top: 2px solid grey;
+}
+
+.mid-text{
+  padding: 15px 0;
+  margin-bottom: 30px;
+}
+
+.mid-bottom-text{
+    margin-top: 30px
+}
+
+@media screen and (min-width: 0px) and (max-width: 481px) {
+  #carousel-example-generic { display: block; }  /* show it on small screens */
 }
